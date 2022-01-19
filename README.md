@@ -1,5 +1,5 @@
-### 💎💎💎💎💎 Hi, I am 
-### ❤️🧡💛💚💜💙 Amit Samadder (Abir) ❤️🧡💛💚💜💙
+### 💎💎💎💎💎 Hi,
+### ❤️🧡💛💚💜💙 I am Amit Samadder (Abir) ❤️🧡💛💚💜💙
 
 ##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI 
 ##### ❤️ mac OS, Linux (ubuntu) OS, Windows OS 
