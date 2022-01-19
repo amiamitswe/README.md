@@ -1,6 +1,6 @@
 ### 🔴🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤
 # ********** HI **********
-#### 💎💎💎💎💎 I am 
+### 💎💎💎💎💎 I am 
 ## ❤️🧡💛💚💜💙 Amit Samadder (Abir) ❤️🧡💛💚💜💙
 ##### ❤️ JavaScript Developer from Bangladesh
 ##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI
@@ -32,7 +32,6 @@ started with php, but now working with js
 
 coming soon ....
 
-> const status = 'Loading...'
-> console.log(status)
+> console.log('Loading...')
 
 
