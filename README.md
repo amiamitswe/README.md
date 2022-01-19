@@ -1,4 +1,4 @@
-### 🔴🟠🟡🟢🔵🟣🟤⚫🟠🟡🟢🔵🟣🟤⚫🟠🟡🟢🔵🟣🟤⚫🟠🟡🟢🟠🟡🟢🔵🟣🟤⚫🟠🟡🟢🔵🟣🟤⚫
+### 🔴🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤
 # ********** HI **********
 #### 💎💎💎💎💎 I am 
 ## ❤️🧡💛💚💜💙 Amit Samadder (Abir) ❤️🧡💛💚💜💙
@@ -6,7 +6,6 @@
 ##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI
 ##### ❤️ mac OS, Linux (ubuntu) OS, Windows OS
 ##### ❤️ WebStorm, vscode, postman, chrome
-
 
 
 ## ********** Here I am **********
@@ -31,11 +30,9 @@ started with php, but now working with js
    },
 ```
 
-
 coming soon ....
 
-> const status = 'Loading...';
-
-> console.log(status);
+> const status = 'Loading...'
+> console.log(status)
 
 
