@@ -7,7 +7,6 @@
 ##### ❤️ mac OS, Linux (ubuntu) OS, Windows OS 
 ##### ❤️ WebStorm, vscode, postman, chrome
 
-## ********** Here I am **********
 ### 💎 [GitHub](https://github.com/amiamitswe)
 
 like `javascript` , `nodejs` and `web development`.
@@ -29,8 +28,13 @@ started with php, but now working with js
    },
 ```
 
-coming soon ....
+const areYouAlive = (response: boolean): string => {
+  let answer;
+  if (response) answer = 'yes I am still Alive';
+  else answer = "No, you are talking with Amit's Ghost";
+  return answer;
+};
 
-> console.log('Loading...')
+> console.log(areYouAlive(false))
 
 
