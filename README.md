@@ -6,9 +6,9 @@
 ##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI
 ##### ❤️ mac OS, Linux (ubuntu) OS, Windows OS
 ##### ❤️ WebStorm, vscode, postman, chrome
-#
-#
-#
+
+
+
 ## ********** Here I am **********
 ### 💎 [GitHub](https://github.com/amiamitswe)
 
@@ -35,6 +35,7 @@ started with php, but now working with js
 coming soon ....
 
 > const status = 'Loading...';
+
 > console.log(status);
 
 
