@@ -3,7 +3,7 @@
 
 ##### I ❤️ to work with JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI 
 ##### I ❤️ to use mac OS, Linux (ubuntu) OS, Windows OS 
-##### I ❤️ the tools to development WebStorm, vscode, postman, chrome
+##### I ❤️ the tools to development are WebStorm, vscode, postman, chrome
 
 ### 💎 [GitHub](https://github.com/amiamitswe)
 
