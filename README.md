@@ -15,14 +15,14 @@ started with php, but now working with js
 
 ```diff
    "aboutMySelf": {
-+    "name": "Amit Samadder",
-+    "nickName": "Abir",
-+    "whereFrom": "Bangladesh"
-+    "bscForm": "Daffodil International University",
-+    "liveIn": "Dhaka, Bangladesh",
--    "badHabit": "a lot of, can't describe",
--    "preProgrammingLanguage": "php"
-+    "lovedProgrammingLanguage": "javascript"
+   +    "name": "Amit Samadder",
+   +    "nickName": "Abir",
+   +    "whereFrom": "Bangladesh"
+   +    "bscForm": "Daffodil International University",
+   +    "liveIn": "Dhaka, Bangladesh",
+   -    "badHabit": "a lot of, can't describe",
+   -    "preProgrammingLanguage": "php"
+   +    "lovedProgrammingLanguage": "javascript"
    },
 ```
 
