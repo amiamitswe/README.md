@@ -7,7 +7,7 @@
 
 ### 💎 [GitHub](https://github.com/amiamitswe)
 
-like `javascript` , `nodejs` and `web development`.
+like `javascript` , `nodejs` and `sleeping`.
 
 started with php, but now working with js
 
