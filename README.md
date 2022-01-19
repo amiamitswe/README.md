@@ -28,12 +28,16 @@ started with php, but now working with js
    },
 ```
 
+```bash
 const areYouAlive = (response: boolean): string => {
   let answer;
   if (response) answer = 'yes I am still Alive';
   else answer = "No, you are talking with Amit's Ghost";
   return answer;
 };
+```
+
+
 
 > console.log(areYouAlive(false))
 
