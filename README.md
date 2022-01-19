@@ -1,9 +1,9 @@
 ### 💎💎💎💎💎 Hi,
 ### ❤️🧡💛💚💜💙 I am Amit Samadder (Abir) ❤️🧡💛💚💜💙
 
-##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI 
-##### ❤️ mac OS, Linux (ubuntu) OS, Windows OS 
-##### ❤️ WebStorm, vscode, postman, chrome
+##### I ❤️ to work with JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI 
+##### I ❤️ to use mac OS, Linux (ubuntu) OS, Windows OS 
+##### I ❤️ the tools to development WebStorm, vscode, postman, chrome
 
 ### 💎 [GitHub](https://github.com/amiamitswe)
 
