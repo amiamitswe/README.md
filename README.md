@@ -2,10 +2,8 @@
 # ********** HI **********
 ### 💎💎💎💎💎 I am 
 ## ❤️🧡💛💚💜💙 Amit Samadder (Abir) ❤️🧡💛💚💜💙
-##### ❤️ JavaScript Developer from Bangladesh
-##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI
-##### ❤️ mac OS, Linux (ubuntu) OS, Windows OS
-##### ❤️ WebStorm, vscode, postman, chrome
+
+##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI ❤️ mac OS, Linux (ubuntu) OS, Windows OS ❤️ WebStorm, vscode, postman, chrome
 
 
 ## ********** Here I am **********
