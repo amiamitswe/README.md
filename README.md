@@ -1,10 +1,11 @@
-### 🔴🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤
+###### 🔴🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤
 # ********** HI **********
 ### 💎💎💎💎💎 I am 
-## ❤️🧡💛💚💜💙 Amit Samadder (Abir) ❤️🧡💛💚💜💙
+### ❤️🧡💛💚💜💙 Amit Samadder (Abir) ❤️🧡💛💚💜💙
 
-##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI ❤️ mac OS, Linux (ubuntu) OS, Windows OS ❤️ WebStorm, vscode, postman, chrome
-
+##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI 
+##### ❤️ mac OS, Linux (ubuntu) OS, Windows OS 
+##### ❤️ WebStorm, vscode, postman, chrome
 
 ## ********** Here I am **********
 ### 💎 [GitHub](https://github.com/amiamitswe)
