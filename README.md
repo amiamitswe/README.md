@@ -11,9 +11,7 @@
 
 like `javascript` , `nodejs` and `web development`.
 
-```bash
 started with php, but now working with js
-```
 
 ```diff
    "aboutMySelf": {
