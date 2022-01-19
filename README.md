@@ -1,6 +1,4 @@
-###### 🔴🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤🟠🟡🟢🟠🟡🟢🔵🟣🟤🟠🟡🟢🔵🟣🟤
-# ********** HI **********
-### 💎💎💎💎💎 I am 
+### 💎💎💎💎💎 Hi, I am 
 ### ❤️🧡💛💚💜💙 Amit Samadder (Abir) ❤️🧡💛💚💜💙
 
 ##### ❤️ JavaScript, TypeScript, ReactJS, NextJS, ReduxJS, ContextAPI 
