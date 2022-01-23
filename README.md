@@ -5,8 +5,8 @@
 ##### I ❤️ to use mac OS, Linux (ubuntu) OS, Windows OS 
 ##### I ❤️ the tools to development are WebStorm, vscode, postman, chrome
 
-### 💎 [GitHub](https://github.com/amiamitswe)
-### 💎 [Facebook](https://facebook.com/amit.s.abir)
+### 💎 [GitHub](https://github.com/amiamitswe) ### 💎 [Facebook](https://facebook.com/amit.s.abir)
+
 
 like `javascript` , `nodejs` and `sleeping`.
 
