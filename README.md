@@ -12,18 +12,19 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/> ](https://reactjs.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> ](https://redux.js.org) 
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/> ](https://nodejs.org) 
-[<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="30"/> ](https://expressjs.com) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="30"/> ](https://www.mongodb.com) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="30"/> ](https://sass-lang.com)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>](https://tailwindcss.com) 
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30"/> ](https://firebase.google.com) 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> ](https://git-scm.com) 
 [<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="30"/> ](https://www.netlify.com/) 
-[<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="30"/> ](https://heroku.com) 
-[<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="30"/> ](https://www.chartjs.org) 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> ](https://www.figma.com) 
 [<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/> ](https://www.adobe.com/products/xd.html) 
+
+### Environment
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
+[<img src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" alt="xd" width="40" height="30"/> ](https://www.jetbrains.com/webstorm/) 
+
+
 
 ### Connect with me
 [![Build Status](https://github.com/twbs/icons/workflows/Tests/badge.svg)](https://github.com/amiamitswe)
