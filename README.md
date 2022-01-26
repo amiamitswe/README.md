@@ -21,9 +21,13 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/> ](https://www.adobe.com/products/xd.html) 
 
 ### Environment
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com)  
 [<img src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" alt="xd" width="40" height="30"/> ](https://www.jetbrains.com/webstorm/) 
 
+### Operating System
+[<img src="https://pic.onlinewebfonts.com/svg/img_460374.png" alt="Visual Studio Code" width="40" height="30"/> ](https://www.apple.com/macos/monterey/)  
+[<img src="https://2.bp.blogspot.com/-oUWWVQ6hX2k/U3roPMZllMI/AAAAAAAAK9E/fSSbKX3XetQ/s1600/ubuntu_logo.png" alt="Visual Studio Code" width="40" height="30"/> ](https://ubuntu.com/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="xd" width="40" height="30"/> ](https://www.microsoft.com/en-us/windows) 
 
 
 ### Connect with me
