@@ -25,7 +25,7 @@
 [<img src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" alt="xd" width="40" height="30"/> ](https://www.jetbrains.com/webstorm/) 
 
 ### Operating System
-[<img src="https://pic.onlinewebfonts.com/svg/img_460374.png" alt="Visual Studio Code" width="40" height="30"/> ](https://www.apple.com/macos/monterey/)  
+[<img src="https://pic.onlinewebfonts.com/svg/img_460374.png" alt="Visual Studio Code" width="40" height="30"/> ](https://www.apple.com/macos/monterey/) 
 [<img src="https://2.bp.blogspot.com/-oUWWVQ6hX2k/U3roPMZllMI/AAAAAAAAK9E/fSSbKX3XetQ/s1600/ubuntu_logo.png" alt="Visual Studio Code" width="40" height="30"/> ](https://ubuntu.com/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="xd" width="40" height="30"/> ](https://www.microsoft.com/en-us/windows) 
 
