@@ -60,6 +60,9 @@ const areYouAlive = (response: boolean): string => {
 
 > console.log(areYouAlive(true))
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiamitswe&layout=compact)](https://github.com/amiamitswe)
+
 <br/>
+
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiamitswe&count_private=true&show_icons=true)](https://github.com/amiamitswe)
