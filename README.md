@@ -24,7 +24,7 @@
 ### Environment
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="xd" width="40" height="30"/> ](https://www.jetbrains.com/webstorm/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" alt="sublimetext" width="40" height="30"/> ](https://www.sublimetext.com/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" alt="sublimetext" width="30" height="30"/> ](https://www.sublimetext.com/) 
 
 ### Operating System
 [<img src="http://incitrio.com/wp-content/uploads/2015/01/Apple_gray_logo.png" alt="mac os" width="30" height="30"/> ](https://www.apple.com/macos/monterey/) 
