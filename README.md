@@ -11,7 +11,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="30"/> ](https://www.typescriptlang.org/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="30"/> ](https://getbootstrap.com/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" width="40" height="30"/> ](https://reactjs.org) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" alt="redux" width="40" height="30"/> ](https://redux.js.org) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> ](https://redux.js.org) 
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/> ](https://nodejs.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="30"/> ](https://sass-lang.com)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>](https://tailwindcss.com) 
