@@ -22,7 +22,7 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/> ](https://www.adobe.com/products/xd.html) 
 
 ### Environment
-[<img src="https://en.m.wikipedia.org/wiki/Visual_Studio_Code#/media/File%3AVisual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
+[<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="xd" width="40" height="30"/> ](https://www.jetbrains.com/webstorm/) 
 
 ### Operating System
