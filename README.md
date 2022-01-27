@@ -22,13 +22,13 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/> ](https://www.adobe.com/products/xd.html) 
 
 ### Environment
-[<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="xd" width="40" height="30"/> ](https://www.jetbrains.com/webstorm/) 
 
 ### Operating System
-[<img src="https://maclife.vn/wp-content/uploads/2021/06/Bo-cai-monterey-1536x1025.png" alt="Visual Studio Code" width="40" height="30"/> ](https://www.apple.com/macos/monterey/) 
-[<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" alt="Visual Studio Code" width="40" height="30"/> ](https://ubuntu.com/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="xd" width="40" height="30"/> ](https://www.microsoft.com/en-us/windows) 
+[<img src="http://incitrio.com/wp-content/uploads/2015/01/Apple_gray_logo.png" alt="mac os" width="40" height="30"/> ](https://www.apple.com/macos/monterey/) 
+[<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/> ](https://ubuntu.com/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="30"/> ](https://www.microsoft.com/en-us/windows) 
 
 
 ### Connect with me
