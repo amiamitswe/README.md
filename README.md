@@ -26,9 +26,9 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="xd" width="40" height="30"/> ](https://www.jetbrains.com/webstorm/) 
 
 ### Operating System
-[<img src="http://incitrio.com/wp-content/uploads/2015/01/Apple_gray_logo.png" alt="mac os" width="40" height="30"/> ](https://www.apple.com/macos/monterey/) 
+[<img src="http://incitrio.com/wp-content/uploads/2015/01/Apple_gray_logo.png" alt="mac os" width="30" height="30"/> ](https://www.apple.com/macos/monterey/) 
 [<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/> ](https://ubuntu.com/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="30"/> ](https://www.microsoft.com/en-us/windows) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="30" height="30"/> ](https://www.microsoft.com/en-us/windows) 
 
 
 ### Connect with me
