@@ -68,4 +68,4 @@ const areYouAlive = (response: boolean): string => {
 > console.log(areYouAlive(true))
 <br/>
 
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiamitswe&count_private=true&show_icons=true)](https://github.com/amiamitswe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiamitswe&layout=compact)](https://github.com/amiamitswe)
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiamitswe&count_private=true&show_icons=true&theme=monokai)](https://github.com/amiamitswe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiamitswe&layout=compact&theme=monokai)](https://github.com/amiamitswe)
