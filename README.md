@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" alt="html5" width="40" height="30"/> ](https://www.w3.org/html) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="40" height="30"/> ](https://www.w3schools.com/css) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg" alt="css3" width="40" height="30"/> ](https://www.w3schools.com/css) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="30"/> ](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="30"/> ](https://www.typescriptlang.org/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="30"/> ](https://getbootstrap.com/) 
@@ -22,7 +22,7 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/> ](https://www.adobe.com/products/xd.html) 
 
 ### Environment
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
+[<img src="https://en.m.wikipedia.org/wiki/Visual_Studio_Code#/media/File%3AVisual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="xd" width="40" height="30"/> ](https://www.jetbrains.com/webstorm/) 
 
 ### Operating System
