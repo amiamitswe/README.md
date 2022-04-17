@@ -31,7 +31,7 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/> ](https://ubuntu.com/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="30" height="30"/> ](https://www.microsoft.com/en-us/windows) 
 
-[![Youtube][youtube-shield]][youtube-url]
+[![Github][github-shield]][github-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -76,11 +76,11 @@ const areYouAlive = (response: boolean): string => {
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiamitswe&count_private=true&show_icons=true&theme=dark)](https://github.com/amiamitswe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiamitswe&layout=compact&theme=dark)](https://github.com/amiamitswe)
 
 
-[youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com/LearnwithSumit
+[github-shield]: https://img.shields.io/github/followers/amiamitswe?color=555&label=github&logo=github&logoColor=white&style=flat-square
+[github-url]: https://github.com/amiamitswe
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/letslearnwithsumit
+[facebook-url]: https://facebook.com/amit.s.abir
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/learnwithsumit
+[instagram-url]: https://instagram.com/amiamitswe
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/learnwithsumit
+[linkedin-url]: https://bd.linkedin.com/in/amiamitswe
