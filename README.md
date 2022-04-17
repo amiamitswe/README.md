@@ -35,6 +35,7 @@
 [![Facebook][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Stackoverflow][stackoverflow-shield]][stackoverflow-url]
 
 
 ### Connect with me
@@ -75,8 +76,9 @@ const areYouAlive = (response: boolean): string => {
 
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiamitswe&count_private=true&show_icons=true&theme=dark)](https://github.com/amiamitswe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiamitswe&layout=compact&theme=dark)](https://github.com/amiamitswe)
 
-
-[github-shield]: https://img.shields.io/github/followers/amiamitswe?color=555&label=github&logo=github&logoColor=white&style=flat-square
+[stackoverflow-shield]: https://img.shields.io/badge/stackoverflow-%20-555?color=555&&logo=stackoverflow&logoColor=white&style=flat-square
+[stackoverflow-url]: https://stackoverflow.com/users/8791843/a-s-abir
+[github-shield]: https://img.shields.io/badge/github-%20-555?color=555&&logo=github&logoColor=white&style=flat-square
 [github-url]: https://github.com/amiamitswe
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://facebook.com/amit.s.abir
