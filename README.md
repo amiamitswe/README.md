@@ -31,18 +31,12 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/> ](https://ubuntu.com/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="30" height="30"/> ](https://www.microsoft.com/en-us/windows) 
 
+### Connect with me
 [![Github][github-shield]][github-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Stackoverflow][stackoverflow-shield]][stackoverflow-url]
-
-
-### Connect with me
-[![Build Status](https://github.com/twbs/icons/workflows/Tests/badge.svg)](https://github.com/amiamitswe)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://bd.linkedin.com/in/amiamitswe) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://facebook.com/amit.s.abir) 
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/8791843/a-s-abir)
 
 
 like `javascript` , `nodejs` and `sleeping`.
