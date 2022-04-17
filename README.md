@@ -31,6 +31,11 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/> ](https://ubuntu.com/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="30" height="30"/> ](https://www.microsoft.com/en-us/windows) 
 
+[![Youtube][youtube-shield]][youtube-url]
+[![Facebook][facebook-shield]][facebook-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 ### Connect with me
 [![Build Status](https://github.com/twbs/icons/workflows/Tests/badge.svg)](https://github.com/amiamitswe)
