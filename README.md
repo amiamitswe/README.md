@@ -74,3 +74,13 @@ const areYouAlive = (response: boolean): string => {
 <br/>
 
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiamitswe&count_private=true&show_icons=true&theme=dark)](https://github.com/amiamitswe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiamitswe&layout=compact&theme=dark)](https://github.com/amiamitswe)
+
+
+[youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
+[youtube-url]: https://youtube.com/LearnwithSumit
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
+[facebook-url]: https://facebook.com/letslearnwithsumit
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
+[instagram-url]: https://instagram.com/learnwithsumit
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/company/learnwithsumit
