@@ -75,7 +75,7 @@ const areYouAlive = (response: boolean): string => {
 [github-shield]: https://img.shields.io/badge/github-%20-555?color=555&&logo=github&logoColor=white&style=flat-square
 [github-url]: https://github.com/amiamitswe
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/amit.s.abir
+[facebook-url]: https://facebook.com/amiamitswe
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
 [instagram-url]: https://instagram.com/amiamitswe
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
