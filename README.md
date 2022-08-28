@@ -5,15 +5,18 @@
 ##### I ❤️ the tools to development are WebStorm, vscode, postman, chrome -->
 
 ### Languages and Tools:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" alt="html5" width="40" height="30"/> ](https://www.w3.org/html) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg" alt="css3" width="40" height="30"/> ](https://www.w3schools.com/css) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="30"/> ](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="30"/> ](https://www.typescriptlang.org/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="30"/> ](https://getbootstrap.com/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" width="40" height="30"/> ](https://reactjs.org) 
+[<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="30"/> ](https://www.typescriptlang.org/) 
+[<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="30"/> ](https://reactjs.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> ](https://redux.js.org) 
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/> ](https://nodejs.org) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="30"/> ](https://sass-lang.com)
+[<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="30"/> ](https://expressjs.com/) 
+[<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="30"/> ](https://www.mongodb.com/) 
+[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="30"/> ](https://www.w3.org/html) 
+[<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="30"/> ](https://www.w3schools.com/css) 
+<!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="30"/> ](https://getbootstrap.com/)  -->
+[<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="30"/> ](https://getbootstrap.com/) 
+[<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="30"/> ](https://sass-lang.com)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>](https://tailwindcss.com) 
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30"/> ](https://firebase.google.com) 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> ](https://git-scm.com) 
@@ -27,9 +30,11 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" alt="sublimetext" width="30" height="30"/> ](https://www.sublimetext.com/) 
 
 ### Operating System
-[<img src="http://incitrio.com/wp-content/uploads/2015/01/Apple_gray_logo.png" alt="mac os" width="30" height="30"/> ](https://www.apple.com/macos/monterey/) 
-[<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/> ](https://ubuntu.com/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="30" height="30"/> ](https://www.microsoft.com/en-us/windows) 
+<!-- [<img src="http://incitrio.com/wp-content/uploads/2015/01/Apple_gray_logo.png" alt="mac os" width="30" height="30"/> ](https://www.apple.com/macos/monterey/)  -->
+[<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="mac os" width="30" height="30"/> ](https://www.apple.com/macos/monterey/) 
+[<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/> ](https://ubuntu.com/) 
+<!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="30" height="30"/> ](https://www.microsoft.com/en-us/windows)  -->
+[<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30" height="30"/> ](https://www.microsoft.com/en-us/windows) 
 
 ### Connect with me
 [![Github][github-shield]][github-url]
