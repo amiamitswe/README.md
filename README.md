@@ -10,8 +10,7 @@
 [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="30"/> ](https://reactjs.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> ](https://redux.js.org) 
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/> ](https://nodejs.org) 
-[<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="30" background="#fff"/> ](https://expressjs.com/) 
-[<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="expressjs" width="40" height="30" background="#fff"/> ](https://expressjs.com/) 
+[<img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="expressjs" width="40" height="30" background="#fff"/> ](https://expressjs.com/) 
 [<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="30"/> ](https://www.mongodb.com/) 
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="30"/> ](https://www.w3.org/html) 
 [<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="30"/> ](https://www.w3schools.com/css) 
@@ -33,6 +32,7 @@
 [<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="30"/> ](https://www.mongodb.com/products/compass) 
 
 ### Operating System
+[<img src="https://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-logo-black-and-white.png" alt="mac os" width="30" height="30"/> ](https://www.apple.com/macos/monterey/) 
 [<img src="http://incitrio.com/wp-content/uploads/2015/01/Apple_gray_logo.png" alt="mac os" width="30" height="30"/> ](https://www.apple.com/macos/monterey/) 
 [<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/> ](https://ubuntu.com/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="30" height="30"/> ](https://www.microsoft.com/en-us/windows) 
