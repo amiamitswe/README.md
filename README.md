@@ -23,7 +23,7 @@
 [<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="30"/> ](https://www.netlify.com/) 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> ](https://www.figma.com)
 [<img src="https://cdn.worldvectorlogo.com/logos/chatgpt-1.svg" alt="open ai" width="45" height="35"/> ](https://openai.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="45" height="35"/> ](https://gemini.google.com/app)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="55" height="35"/> ](https://gemini.google.com/app)
 
 ### Environment
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
