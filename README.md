@@ -22,6 +22,7 @@
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> ](https://git-scm.com) 
 [<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="30"/> ](https://www.netlify.com/) 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> ](https://www.figma.com)
+[<img src="https://cdn.worldvectorlogo.com/logos/chatgpt-1.svg" alt="figma" width="40" height="30"/> ](https://openai.com/)
 
 ### Environment
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
