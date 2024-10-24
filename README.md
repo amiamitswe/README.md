@@ -10,6 +10,7 @@
 [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="30"/> ](https://reactjs.org) 
 [<img src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg" alt="nextjs" width="30" height="30"/> ](https://nextjs.org/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> ](https://redux.js.org) 
+[<img src="https://cdn.candycode.com/jotai/jotai-mascot.png" alt="jotai" width="40" height="30"/> ](https://jotai.org/) 
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/> ](https://nodejs.org) 
 [<img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="expressjs" width="35" height="30" background="#fff"/> ](https://expressjs.com/) 
 [<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="30"/> ](https://www.mongodb.com/) 
